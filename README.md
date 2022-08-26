@@ -1,2 +1,2 @@
 # PostgreSQL
-Tentei ate nao conseguir mais
+Tentei até nao conseguir mais
